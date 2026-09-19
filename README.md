@@ -1,5 +1,7 @@
 # Seis patrones para trabajar con agentes de IA (y el bucle que los sostiene)
 
+> 🇬🇧 **[Full English version → README.en.md](README.en.md)**
+
 > **In English, in one paragraph:** a field guide, in Spanish, to the six ways of organizing work when you have several AI agents instead of one: classify-and-act, fan-out-and-synthesize, adversarial verification, generate-and-filter, tournament, and loop-until-done. Plus the gather → act → verify loop underneath them. Each pattern comes with a plain-language explanation, a real use case, **its trap**, and what it costs. Written from running dozens of production automations across three companies, where almost every serious outage was a job that "succeeded" and produced nothing.
 
 Guía práctica para quien dirige agentes de IA sin ser necesariamente programador. La taxonomía de los seis patrones viene de las infografías de la entrevista a **Boris Cherny**, el creador de Claude Code. Las explicaciones, los ejemplos y las trampas son nuestros, sacados de meses con automatizaciones en producción.
