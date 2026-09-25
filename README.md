@@ -116,6 +116,13 @@ La regla que sale de ahí: **comprobar qué produjo, nunca solo que corrió.** U
 
 ---
 
+## Más trabajos del mismo autor
+
+- **[Bitácora de averías](https://github.com/DEscalanteZ/bitacora-de-averias-es)**: las tres formas en que fallan las automatizaciones con IA (130 averías reales) y la regla del candado.
+- **[Dos Claude Code que se pasan trabajo por ficheros](https://github.com/DEscalanteZ/claude-code-buzon-es)**: un canal entre dos agentes con buzones en Markdown, hooks y pruebas.
+
+---
+
 ⭐ **Si esta guía te sirve, dale una estrella al repositorio**: es la forma más sencilla de que le llegue a más gente que trabaja con agentes en español.
 
 *Autor: David Escalante ([@DEscalanteZ](https://github.com/DEscalanteZ)). La taxonomía de los seis patrones viene de la entrevista a Boris Cherny (Anthropic). Licencia: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es): puedes copiarla y adaptarla citando la fuente.*

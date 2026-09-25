@@ -114,6 +114,13 @@ The rule that comes out of it: **check what a job produced, never just that it r
 
 ---
 
+## More from the same author
+
+- **[Failure log](https://github.com/DEscalanteZ/bitacora-de-averias-es)**: the three ways AI automations break (130 real incidents) and the lock rule.
+- **[Two Claude Codes handing work over through files](https://github.com/DEscalanteZ/claude-code-buzon-es)**: a two-agent channel with Markdown mailboxes, hooks and tests.
+
+---
+
 ⭐ **If this guide helps you, star the repo**: it's the simplest way to help it reach more people working with agents.
 
 *Author: David Escalante ([@DEscalanteZ](https://github.com/DEscalanteZ)). The six-pattern taxonomy comes from Boris Cherny's interview (Anthropic). License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may copy and adapt it with attribution.*
