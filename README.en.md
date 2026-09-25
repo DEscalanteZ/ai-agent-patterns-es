@@ -117,7 +117,7 @@ The rule that comes out of it: **check what a job produced, never just that it r
 ## More from the same author
 
 - **[Failure log](https://github.com/DEscalanteZ/bitacora-de-averias-es)**: the three ways AI automations break (130 real incidents) and the lock rule.
-- **[Two Claude Codes handing work over through files](https://github.com/DEscalanteZ/claude-code-buzon-es)**: a two-agent channel with Markdown mailboxes, hooks and tests.
+- **[Communication between two Claude Code agents on different computers](https://github.com/DEscalanteZ/claude-code-buzon-es)**: two people's agents handing work over through files, with hooks and tests.
 
 ---
 

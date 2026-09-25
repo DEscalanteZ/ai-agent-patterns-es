@@ -119,7 +119,7 @@ La regla que sale de ahí: **comprobar qué produjo, nunca solo que corrió.** U
 ## Más trabajos del mismo autor
 
 - **[Bitácora de averías](https://github.com/DEscalanteZ/bitacora-de-averias-es)**: las tres formas en que fallan las automatizaciones con IA (130 averías reales) y la regla del candado.
-- **[Dos Claude Code que se pasan trabajo por ficheros](https://github.com/DEscalanteZ/claude-code-buzon-es)**: un canal entre dos agentes con buzones en Markdown, hooks y pruebas.
+- **[Comunicación entre dos Claude Code en ordenadores diferentes](https://github.com/DEscalanteZ/claude-code-buzon-es)**: dos agentes de dos personas que se pasan trabajo por ficheros, con hooks y pruebas.
 
 ---
 
