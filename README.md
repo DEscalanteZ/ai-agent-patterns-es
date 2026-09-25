@@ -75,6 +75,8 @@ La regla que sale de ahí: **comprobar qué produjo, nunca solo que corrió.** U
 
 **El matiz:** cuando algo puede fallar de varias maneras, rinden más **revisores con ángulos distintos** (¿es correcto?, ¿se reproduce?, ¿rompe otra cosa?) que varios iguales. Varios iguales se equivocan igual.
 
+**Las plantillas y lo que medimos:** los dos prompts que usamos y una prueba con 8 trabajos reales para ver si un solo agente con los dos encargos bastaba. No bastó. Está en [refutadores-en-frio.md](refutadores-en-frio.md).
+
 ### 4 · Generar mucho y filtrar · *Generate-and-Filter*
 
 **Qué es:** varios agentes producen muchos candidatos, y después un filtro con criterios escritos se queda con los buenos y descarta el resto.
@@ -113,5 +115,7 @@ La regla que sale de ahí: **comprobar qué produjo, nunca solo que corrió.** U
 4. **Una advertencia sobre los patrones:** son formas de organizar el trabajo, no inteligencia. Un torneo entre cuatro respuestas malas da la menos mala. Ninguno arregla unos datos de entrada malos. Eso solo se arregla mirando la fuente.
 
 ---
+
+⭐ **Si esta guía te sirve, dale una estrella al repositorio**: es la forma más sencilla de que le llegue a más gente que trabaja con agentes en español.
 
 *Autor: David Escalante ([@DEscalanteZ](https://github.com/DEscalanteZ)). La taxonomía de los seis patrones viene de la entrevista a Boris Cherny (Anthropic). Licencia: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es): puedes copiarla y adaptarla citando la fuente.*

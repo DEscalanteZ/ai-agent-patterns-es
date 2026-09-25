@@ -73,6 +73,8 @@ The rule that comes out of it: **check what a job produced, never just that it r
 
 **The nuance:** when something can fail in several ways, **reviewers with different angles** (is it correct? does it reproduce? does it break something else?) beat several identical ones. Identical reviewers make the same mistake.
 
+**The prompts and what we measured:** the two refuter prompts we use, plus an 8-job test of whether a single agent holding both briefs was enough. It wasn't. See [refutadores-en-frio.md](refutadores-en-frio.md#english-summary).
+
 ### 4 · Generate-and-Filter
 
 **What it is:** several agents produce lots of candidates, then a filter with written criteria keeps the good ones and drops the rest.
@@ -111,5 +113,7 @@ The rule that comes out of it: **check what a job produced, never just that it r
 4. **A caveat about the patterns themselves:** they are ways of organizing work, not intelligence. A tournament between four bad answers picks the least bad. None of them fixes bad input data. Only looking at the source does that.
 
 ---
+
+⭐ **If this guide helps you, star the repo**: it's the simplest way to help it reach more people working with agents.
 
 *Author: David Escalante ([@DEscalanteZ](https://github.com/DEscalanteZ)). The six-pattern taxonomy comes from Boris Cherny's interview (Anthropic). License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may copy and adapt it with attribution.*
